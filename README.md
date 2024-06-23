@@ -1,7 +1,7 @@
 Hi 👋 My name is Luis
 =====================================
 
-Senior Product Designer & Ux engineer
+Senior Product Designer & UX Engineer
 ----------------------------------------------
 
 Product Designer & Software Developer specialized in accessibility and design systems, with a strong background in motion design, animation, and branding.
