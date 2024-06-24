@@ -6,10 +6,10 @@ Senior Product Designer & UX Engineer
 
 Product Designer & UX Engineer specialized in accessibility and design systems, with a strong background in motion design, 3d, animation, and branding.
 
-* Passionate Woodworker
-* Enthusiastic Ping Pong Player
-* Avid Cook (though I avoid doing the dishes)
-* Fluent in Spanish and English
+* Love working with wood
+* Ping pong enthusiast
+* Enjoy cooking (but not a fan of doing the dishes)
+* Bilingual
 
 
 
