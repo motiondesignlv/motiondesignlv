@@ -4,7 +4,7 @@ Hi 👋 My name is Luis
 Senior Product Designer & UX Engineer
 ----------------------------------------------
 
-Product Designer & UX Engineer specialized in accessibility and design systems, with a strong background in motion design, 3d, animation, and branding.
+Product Designer & UX Engineer with a background in motion design, 3d, and branding.
 
 * Love working with wood
 * Ping pong enthusiast
@@ -37,4 +37,4 @@ Product Designer & UX Engineer specialized in accessibility and design systems, 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/motiondesignlv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/motion_design" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/motiondesignlv/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://vimeo.com/motiondesignlv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/motion_design" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/motiondesignlv/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
