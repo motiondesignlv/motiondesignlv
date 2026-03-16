@@ -4,7 +4,7 @@ Hi 👋 My name is Luis
 Senior Product Designer & UX Engineer
 ----------------------------------------------
 
-Product Designer & UX Engineer with a background in motion design, 3d, and branding.
+Product Designer & UX Engineer with a background in Motion Graphics, 3d, and branding.
 
 * Love working with wood
 * Ping pong enthusiast
