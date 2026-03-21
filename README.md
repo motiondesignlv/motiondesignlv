@@ -38,3 +38,7 @@ Product Designer & UX Engineer with a background in Motion Graphics, 3d, and bra
 ### Socials
 
 <p align="left"> <a href="https://vimeo.com/motiondesignlv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/motion_design" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/motiondesignlv/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+
+### Lastest Post
+
+- https://dev.to/motion_design/i-got-tired-of-bloated-react-libraries-so-i-built-two-tiny-ones-1jc5
