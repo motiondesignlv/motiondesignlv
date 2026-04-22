@@ -13,7 +13,7 @@ Product Designer & UX Engineer with a background in Motion Graphics, 3D, and bra
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,sass,tailwind,react,nextjs,vue,webpack,babel,vite,nodejs,express,mongodb,redis,figma,ps,pr,ai,ae,au,d3,threejs,vscode,github,docker,cloudflare,apple&perline=17)](https://themotiondesign.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,sass,tailwind,react,nextjs,vue,webpack,babel,vite,nodejs,express,mongodb,redis,figma,ps,pr,ai,ae,au,d3,threejs,vscode,github,docker,cloudflare,apple&perline=17)](https://themotiondesign.com)
 
 ---
 
